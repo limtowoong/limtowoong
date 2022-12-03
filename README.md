@@ -4,7 +4,7 @@
 
 <br>
 
-[![limtowoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=limtowoong)](https://github.com/limtowoong/github-readme-stats)
+[![limtowoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=limtowoong)](https://github.com/limtowoong)
 
 <br><br><br>
 
