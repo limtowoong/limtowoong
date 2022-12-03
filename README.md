@@ -4,7 +4,7 @@
 
 <br>
 
-[![limtowoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=limtowoong)](https://github.com/limtowoong)
+![limtowoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=limtowoong)
 
 <br><br><br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limtowoong&layout=compact)](https://github.com/limtowoong/portfolio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limtowoong&layout=compact)
 
 <br><br><br>
 
